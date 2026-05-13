@@ -25,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0605-can-place-flowers) |
@@ -42,8 +43,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
