@@ -6,6 +6,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0053-maximum-subarray) |
@@ -39,6 +41,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
