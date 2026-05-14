@@ -27,6 +27,7 @@
 | [0053-maximum-subarray](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
