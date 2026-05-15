@@ -17,6 +17,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/1768-merge-strings-alternately) |
 ## Math
@@ -55,6 +56,7 @@
 | [0001-two-sum](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,4 +81,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
