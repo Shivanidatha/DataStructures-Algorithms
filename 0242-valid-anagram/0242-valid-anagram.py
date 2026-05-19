@@ -2,10 +2,12 @@ class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         if len(s)!=len(t):
             return False
-        hm1={}
-        hm={}
+        f=[0]*26
         for i in s:
-            hm1[i]=hm1.get(i,0)+1
+            f[ord(i)-ord('a')]+=1
         for j in t:
-            hm[j]=hm.get(j,0)+1
-        return hm==hm1
+            f[ord(j)-ord('a')]-=1
+        for i in f:
+            if i!=0:
+                return False
+        return True
