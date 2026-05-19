@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0009-palindrome-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
 |  |
