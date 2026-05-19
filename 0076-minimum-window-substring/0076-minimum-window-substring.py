@@ -2,30 +2,26 @@ class Solution:
     def minWindow(self, s: str, t: str) -> str:
         if t=="":
             return ""
-
+        hmt={}
+        for i in t:
+            hmt[i]=hmt.get(i,0)+1
+        hms={}
         l=0
-        minlen=float('inf')
+        have=0
+        req= len(hmt)
         ans=""
-        hm={}
-        required=0
-        for i in range(len(t)):
-            hm[t[i]]=hm.get(t[i],0)+1
+        minlen=float('inf')
 
-        hm1={}
-        for i in range(len(s)):
-            hm1[s[i]]=hm1.get(s[i],0)+1
-
-            if s[i] in hm and hm1[s[i]]==hm[s[i]]:
-                required+=1
-
-            while required==len(hm):
-                if i-l+1<minlen:
-                    ans=s[l:i+1]
-                    minlen=i-l+1
-                hm1[s[l]]-=1
-                if s[l] in hm and hm1[s[l]]< hm[s[l]]:
-                    required-=1
-                l+=1  
-                
+        for r in range(len(s)):
+            hms[s[r]]=hms.get(s[r],0)+1
+            if s[r] in hmt and hmt[s[r]]==hms[s[r]]:
+                have+=1
+            while have==req:
+                if r-l+1< minlen:
+                    ans=s[l:r+1]
+                    minlen=r-l+1
+                hms[s[l]]-=1
+                if s[l] in hmt and hms[s[l]]< hmt[s[l]]:
+                    have-=1
+                l+=1
         return ans
-            
