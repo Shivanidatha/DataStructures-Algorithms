@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0151-reverse-words-in-a-string) |
@@ -92,4 +93,8 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
