@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
+| [0647-palindromic-substrings](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0647-palindromic-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -24,6 +25,7 @@
 | [0242-valid-anagram](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0647-palindromic-substrings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/1768-merge-strings-alternately) |
 ## Math
@@ -75,6 +77,7 @@
 | [0053-maximum-subarray](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0152-maximum-product-subarray) |
+| [0647-palindromic-substrings](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
 | ------- |
