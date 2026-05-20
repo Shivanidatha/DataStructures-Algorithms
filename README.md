@@ -9,6 +9,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0015-3sum) |
+| [0141-linked-list-cycle](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0647-palindromic-substrings) |
@@ -67,6 +68,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
@@ -107,6 +109,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
