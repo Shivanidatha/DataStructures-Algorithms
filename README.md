@@ -45,6 +45,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0152-maximum-product-subarray) |
@@ -88,6 +89,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
