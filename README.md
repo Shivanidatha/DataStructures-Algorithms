@@ -53,6 +53,7 @@
 | [0217-contains-duplicate](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
@@ -60,6 +61,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
@@ -83,6 +85,7 @@
 | [0053-maximum-subarray](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
@@ -92,6 +95,7 @@
 | [0056-merge-intervals](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0435-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
