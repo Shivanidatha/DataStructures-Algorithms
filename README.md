@@ -36,6 +36,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0009-palindrome-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/2965-find-missing-and-repeated-values) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [0217-contains-duplicate](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,4 +143,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0023-merge-k-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
