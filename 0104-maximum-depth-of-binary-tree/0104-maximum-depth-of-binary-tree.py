@@ -10,15 +10,15 @@ class Solution:
         if not root:
             return 0
 
-        st=Queue()
-        level=0
-        st.put(root)
-        while not st.empty():
-            for i in range(st.qsize()):
-                t= st.get()
+        q=deque([root])
+        level=0 
+        
+        while q:
+            for i in range(len(q)):
+                t= q.popleft()
                 if t.left:
-                    st.put(t.left)
+                    q.append(t.left)
                 if t.right:
-                    st.put(t.right)
+                    q.append(t.right)
             level+=1
         return level
