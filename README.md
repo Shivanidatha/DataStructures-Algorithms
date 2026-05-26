@@ -147,4 +147,20 @@
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/2965-find-missing-and-repeated-values) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
