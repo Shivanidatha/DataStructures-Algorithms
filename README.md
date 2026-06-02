@@ -89,6 +89,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0647-palindromic-substrings) |
@@ -158,6 +159,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -168,6 +170,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -187,6 +190,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
