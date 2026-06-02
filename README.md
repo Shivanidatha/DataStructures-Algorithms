@@ -26,6 +26,7 @@
 | [0076-minimum-window-substring](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0647-palindromic-substrings) |
@@ -163,6 +164,7 @@
 | [0226-invert-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -174,6 +176,7 @@
 | [0226-invert-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -182,6 +185,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -194,6 +198,7 @@
 | [0226-invert-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -209,4 +214,8 @@
 | [0098-validate-binary-search-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
