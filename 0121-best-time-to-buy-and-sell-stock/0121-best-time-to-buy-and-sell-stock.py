@@ -5,5 +5,6 @@ class Solution:
         for i in range(len(prices)):
             if prices[i]<min:
                 min=prices[i]
-            ans=max(ans, prices[i]-min)
+            else:
+                ans=max(ans, prices[i]-min)
         return ans
