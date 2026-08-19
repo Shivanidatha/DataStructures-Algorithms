@@ -5,6 +5,7 @@ class Solution:
         for i in prices:
             if i<min:
                 min=i
-            if ans<i-min:
+            profit=i-min
+            if ans<profit:
                 ans=i-min
         return ans
