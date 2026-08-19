@@ -7,5 +7,5 @@ class Solution:
                 min=i
             profit=i-min
             if ans<profit:
-                ans=profit
+                ans=i-min
         return ans
