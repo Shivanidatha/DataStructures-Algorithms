@@ -231,4 +231,8 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
