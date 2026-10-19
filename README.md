@@ -174,6 +174,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [0872-leaf-similar-trees](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [0872-leaf-similar-trees](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [0872-leaf-similar-trees](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0872-leaf-similar-trees) |
 ## String Matching
 |  |
 | ------- |
