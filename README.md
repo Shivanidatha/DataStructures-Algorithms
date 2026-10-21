@@ -175,6 +175,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -188,6 +189,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -211,6 +214,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
