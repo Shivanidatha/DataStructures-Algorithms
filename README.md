@@ -120,6 +120,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0374-guess-number-higher-or-lower](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0374-guess-number-higher-or-lower) |
 ## Sliding Window
 |  |
 | ------- |
@@ -242,4 +243,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0005-longest-palindromic-substring) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Shivanidatha/DataStructures-Algorithms/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
